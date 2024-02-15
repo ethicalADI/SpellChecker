@@ -1,4 +1,4 @@
-# Spell Cheker
+# Spell Checker
 This projects implements the Trie Data Structure which develops an autocomplete feature or suggestion.
 
 ## Table of contents
