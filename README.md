@@ -8,7 +8,7 @@ This projects implements the Trie Data Structure which develops an autocomplete 
   - [Basic Implementation](#implementation)
   - [Screenshot](#screenshot)
   - [What I learned](#what-i-learned)
-  - [Author](#author)
+  
 
 ### Overview
   Trie is a tree-based data structure, which is used for efficient retrieval of a key in a large dataset of strings. 
