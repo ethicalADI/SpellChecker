@@ -71,7 +71,7 @@ function addtrie(word){
 }
 $(document).ready(function(){
 
-	$.get("https://raw.githubusercontent.com/sujal2048/Auto_Complete_Feature/main/src/abc.txt",function(data){
+	$.get("https://raw.githubusercontent.com/ethicalADI/Spell-Checker/main/src/abc.txt",function(data){
 		var input = data.split("\n") ;
 		insertTrie(input) ;
 	});
