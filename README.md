@@ -3,11 +3,11 @@ This projects implements the Trie Data Structure which develops an autocomplete 
 
 ## Table of contents
 
-  - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Basic Implementation](#implementation)
-  - [Screenshot](#screenshot)
-  - [What I learned](#what-i-learned)
+- [Overview](#overview)
+- [The challenge](#the-challenge)
+- [Basic Implementation](#implementation)
+- [Screenshot](#screenshot)
+- [What I learned](#what-i-learned)
   
 
 ### Overview
@@ -18,7 +18,7 @@ This projects implements the Trie Data Structure which develops an autocomplete 
 
 - Live Demo:👇
 
-- [x] [auto-complete-feature.vercel.app/](https://auto-complete-feature.vercel.app/)
+- [x] [auto-complete-feature.vercel.app/](https://spell-checker-peach.vercel.app/)
 
 ### The challenge
 
