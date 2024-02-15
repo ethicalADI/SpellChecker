@@ -181,7 +181,7 @@ int menu()
 {
     cout<<"\n";
     cout<<"\t\t\t\t\t--------------------------------------------\n";
-    cout<<"\t\t\t\t\t|               DICTIONARY APP             |\n";
+    cout<<"\t\t\t\t\t|               DICTIONARY                 |\n";
     cout<<"\t\t\t\t\t--------------------------------------------\n";
     cout<<"\t\t\t\t\t|                                          |\n";
     cout<<"\t\t\t\t\t|       [1]  Add Word & Meaning            |\n";
